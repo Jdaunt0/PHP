@@ -1,0 +1,35 @@
+body{
+    margin:0; /* by default the body element has a 8px margin, this overides that margin */
+}
+
+#header{
+    background-color: rgb(43, 102, 251); /* Changes the color of the background to pink */
+    width: 100%; /* makes the width of the header full or 100%, taking up the whole screen */
+    position:fixed;
+    display:flex;
+    align-items: center;
+    justify-content: space-between; /* Distributes space between items */
+    top: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#header-text{
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer{
+    background-color: lightgray;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#dateAndTime{
+    text-align: right;
+    margin-right: 15px;
+    margin-left: 15px;
+
+}
