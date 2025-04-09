@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <h1>Register Here: </h1>
+    </header>
+
+    <body> <!--basic html form that runs validateRegistration.php on submit -->
+        <form method="post" action="validateRegistration.php">
+            <label for="name">First and last name:</label><br>
+            <input type="text" id="name" name="name"><br>
+        
+            <label for="age">Age:</label><br>
+            <input type="text" id="age" name="age"></br>
+            
+            <label for="mobile">Mobile Number:</label><br>
+            <input type="text" id="mobile" name="mobile"><br>
+            
+            <label for="bio">Short Bio: (up to 200 words)</label><br>
+            <textarea id="bio" name="bio" rows="5" cols="18" style="resize: none;"></textarea><br>
+
+            <label for="email">Email:</label><br>
+            <input type="text" id="email" name="email"><br>
+            
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" name="password"><br>
+        
+            <input type="submit" value="Register">
+            
+            <!-- Output for the error messages -->
+            <p style="color: red" id="errormsg"></p>
+        </form> 
+    </body>
+
+    <script> //JS script to output the error message from the url header  
+        const urlParams = new URLSearchParams(window.location.search);
+        const errorMsg = urlParams.get('error');
+
+        if (errorMsg) {
+            document.getElementById('errormsg').innerHTML = decodeURIComponent(errorMsg.replace(/\+/g, ' '));
+        }
+    </script>
+
+</html>
