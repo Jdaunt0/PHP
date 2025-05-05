@@ -1,0 +1,115 @@
+header{
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    flex-shrink: 0; /* Prevent shrinking */
+    box-sizing: border-box; /* Ensure padding and borders are included in the height */
+}
+
+#heading {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+}
+
+#nav {
+    color:white;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    right: 20px;
+    width: 350px;
+}  
+
+.button{
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 0px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: grey;
+    color: white;
+}
+#about:hover{
+    text-decoration: underline;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    height: 100vh;
+    text-align: center;
+    background-color: beige;
+}
+
+body a{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#about-box{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    background-color:#ffffff;
+    padding-bottom:100px;
+    border-radius:25px;
+}
+#about-box h3{
+    width: 100px;
+    padding-left: 45%;
+}
+#about-box p{
+    width:50%;
+    position:relative;
+    left:25%;
+    top:25%;
+}
+
+.task-container {
+    width: 1500px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px); /* Set each column to 300px */
+    gap: 70px; /* Space between grid items */
+    padding: 20px;
+    justify-content: center; /* Center the grid items horizontally */
+    margin: 0 auto; /* Center the container horizontally */
+    align-items: center; /* Center the grid items vertically */
+}
+
+.task {
+    width: 300px; /* Fixed width for each task box */
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+footer{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin-top: auto;
+    background-color: bisque;
+    height: 50px;
+}
+
+
+
+

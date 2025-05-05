@@ -1,0 +1,129 @@
+Basic Info:
+bca-401
+Leaking Roof
+
+More Info:
+Alice Johnson
+0401234567
+alice.johnson@gmail.com
+urgent
+Downtown
+Water is dripping from the ceiling during rain, needs immediate attention.
+*^*^*^*^*^
+
+Basic Info:
+cab-402
+Broken Window
+
+More Info:
+Bob Smith
+0407654321
+bob.smith@gmail.com
+high
+Uptown
+Window shattered during a storm, needs replacement.
+*^*^*^*^*^
+
+Basic Info:
+abc-403
+Clogged Drain
+
+More Info:
+Charlie Brown
+0409876543
+charlie.brown@gmail.com
+medium
+Suburbia
+Kitchen sink drain is completely clogged, water is not draining.
+*^*^*^*^*^
+
+Basic Info:
+bac-404
+Faulty Electrical Wiring
+
+More Info:
+Diana Prince
+0404567890
+diana.prince@gmail.com
+urgent
+City Center
+Lights flickering and power outages, needs rewiring.
+*^*^*^*^*^
+
+Basic Info:
+cba-405
+Broken Garage Door
+
+More Info:
+Ethan Hunt
+0401122334
+ethan.hunt@gmail.com
+high
+Industrial Area
+Garage door is stuck and won't open or close properly.
+*^*^*^*^*^
+
+Basic Info:
+acb-406
+Cracked Wall
+
+More Info:
+Fiona Gallagher
+0409988776
+fiona.gallagher@gmail.com
+medium
+West End
+Large crack in the living room wall, needs repair.
+*^*^*^*^*^
+
+Basic Info:
+bca-407
+Damaged Fence
+
+More Info:
+George Clooney
+0403344556
+george.clooney@gmail.com
+low
+East Side
+Wooden fence is broken in multiple places, needs fixing.
+*^*^*^*^*^
+
+Basic Info:
+cab-408
+Broken Heater
+
+More Info:
+Hannah Montana
+0406677889
+hannah.montana@gmail.com
+high
+North Hills
+Heater is not working during winter, needs urgent repair.
+*^*^*^*^*^
+
+Basic Info:
+abc-409
+Leaking Pipe
+
+More Info:
+Ian Somerhalder
+0402233445
+ian.somerhalder@gmail.com
+medium
+South Park
+Pipe under the kitchen sink is leaking, causing water damage.
+*^*^*^*^*^
+
+Basic Info:
+bac-410
+Faulty Air Conditioner
+
+More Info:
+Jessica Alba
+0407788990
+jessica.alba@gmail.com
+high
+Central District
+Air conditioner is not cooling properly, needs servicing.
+*^*^*^*^*^
