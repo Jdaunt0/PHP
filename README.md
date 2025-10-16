@@ -36,5 +36,5 @@ The 2 tables that represent the Account and database files
 Inside those tables are the functions and the pages that utilise those functions.
 A black arrow identifies a function being called from within another function, a blue arrow identifies a function being called inside a webpage, this made it a lot easier to visually traceback errors.
 
-![MindmapImg](mindmap.jpg "MindMap")
+![MindmapImg](mindmap.png "MindMap")
 
